@@ -85,7 +85,7 @@
             <h1> <a href="https://www.mozilla.org/en-US/firefox/channel/#developer"><img src="https://mozorg.cdn.mozilla.net/media/img/firefox/channel/toggler-dev.e8e6739d0126.png"></img></a></h1>
             <br>
             <p>Download Latest Nepali Language Pack for Firefox Aurora<br><br>
-            <a href="http://mozilla-nepal.org/langpacks/firefox-44.0a2.ne-NP.langpack.6.xpi" class="btn btn-primary btn-xl page-scroll">DOWNLOAD</a><br>
+            <a href="http://mozilla-nepal.org/langpacks/firefox-44.0a2.ne-NP.langpack.7.xpi" class="btn btn-primary btn-xl page-scroll">DOWNLOAD</a><br>
             <text style="font-size:10px">For older versions click <a href="http://mozilla-nepal.org/langpacks">here</a></text>
             </p>
         </div>
